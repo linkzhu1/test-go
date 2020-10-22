@@ -1,9 +1,9 @@
-package main
+package test 
 
 import (
     "fmt"
 )
 
-func main() {
+func Test() {
     fmt.Println("hello")
 }
